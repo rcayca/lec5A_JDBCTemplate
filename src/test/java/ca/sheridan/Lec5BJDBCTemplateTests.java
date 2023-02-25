@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Lec4BH2andJdbcTemplateApplicationTests {
+class Lec5BJDBCTemplateTests {
 
     @Test
     void contextLoads() {

@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Lec4BH2andJdbcTemplateApplication {
+public class Lec5B_JDBCTemplate {
 
     public static void main(String[] args) {
-        SpringApplication.run(Lec4BH2andJdbcTemplateApplication.class, args);
+        SpringApplication.run(Lec5B_JDBCTemplate.class, args);
     }
 
 }
